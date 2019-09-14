@@ -1,4 +1,4 @@
-public class Zuoye2 {
+public class Wppp {
       public static void main(String[] args){
          Me wo1=Me.getInstance();
          Me wo2=Me.getInstance();
